@@ -106,6 +106,10 @@ form > hr {
   width: 70px;
 }
 
+#submit-form{
+  display: none;
+}
+
 
 /* responsive queries for tightening things up for mobile. */
 
